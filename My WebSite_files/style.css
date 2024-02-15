@@ -1,0 +1,63 @@
+
+body{ text-align: center;
+    background-color:rgb(227, 219, 230) 
+} 
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(64, 173, 209);
+    
+    
+}
+div { background-color: rgb(117, 20, 40);
+    border-radius: 10%;
+    margin: 20px;
+}
+img {
+    height: 450px;
+    border: 5px solid rgb(174, 25, 25);
+    border-radius: 30px;
+    margin: 10px;
+
+}
+h2 {background-color: rgb(57, 57, 168);
+    padding: 5px;
+    color: white;
+
+}
+p {
+    font-size: 20px;
+    font: bold;
+    padding: 10px;
+    
+
+}
+h3{
+    background-color: rgb(174, 25, 25);
+    padding: 15px;
+    color:ivory
+}
+
+a {
+    background-color: rgb(49, 166, 49);
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    
+}
+a:hover{
+    background-color: maroon;
+}
+
+button {background-color: rgb(183, 12, 12);
+    border: none;
+    height: 36px;
+    width: 150px;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    font:bold;
+}
+button:hover { background-color: blue;
+cursor: pointer;}

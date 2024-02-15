@@ -1,0 +1,51 @@
+
+body{ text-align: center;} 
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(64, 173, 209);
+    
+    
+}
+div { background-color: rgb(117, 20, 40);
+    margin: 20px;
+}
+img {
+    height: 450px;
+    border: 5px solid rgb(174, 25, 25);
+    border-radius: 30px;
+    margin: 10px;
+
+}
+h2 {background-color: rgb(57, 57, 168);
+    color: white;
+
+}
+p {
+    font-size: 20px;
+}
+
+
+a {
+    background-color: rgb(49, 166, 49);
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+a:hover {background-color: yellow;
+    color: black;
+}
+
+button {background-color: rgb(183, 12, 12);
+    border: none;
+    height: 36px;
+    width: 150px;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover { background-color: blue;
+cursor: pointer;}
+
+
